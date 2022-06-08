@@ -1,0 +1,34 @@
+.pokeHeader {
+  background-color: rgb(226, 63, 63);
+  display: flex;
+
+  flex-direction: row;
+  flex: auto;
+  align-items: center;
+}
+
+.headerTitle {
+  font-size: 40px;
+  color: white;
+  margin-left: 25px;
+}
+.containerTitle {
+  width: 50%;
+  height: "100%";
+  display: flex;
+}
+.containerInput {
+  width: 50%;
+  display: flex;
+}
+
+.inputSearch {
+  width: 60%;
+  border: 1px solid black;
+}
+.labelInput {
+  font-size: 30px;
+  margin-right: 10px;
+  color: white;
+  font-weight: bold;
+}
