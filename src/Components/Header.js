@@ -3,6 +3,7 @@ import "../styles/HeaderStyles.css";
 import { TbPokeball } from "react-icons/tb";
 import { FcSearch } from "react-icons/fc";
 
+
 const Header = () => {
   return (
     <div className="pokeHeader">
